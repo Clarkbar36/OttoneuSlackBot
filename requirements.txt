@@ -1,0 +1,9 @@
+pytest
+pytest-mock
+boto3
+requests
+fastapi
+slack_sdk
+mangum
+uvicorn
+python-multipart
